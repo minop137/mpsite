@@ -1,4 +1,4 @@
-baseURL = baseURL = "https://minop137.github.io/mpsite/"
+baseURL = "https://minop137.github.io/mpsite/"
 languageCode = 'en-us'
 title = 'mpsite'
 theme = "hugo-theme-console"
